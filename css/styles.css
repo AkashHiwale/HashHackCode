@@ -1,0 +1,132 @@
+/* Task 1 */
+#task1 .firstBox{
+  height: 250px;
+  width: 250px;
+  background-color: #ee82ee;
+  position: absolute;
+}
+
+#task1 .secondBox{
+  height: 250px;
+  width: 250px;
+  background-color: #8fd400;
+  position: absolute;
+  margin-left: 250px;
+}
+
+#task1 .circle{
+  height: 125px;
+  width: 125px;
+  border-radius: 100%;
+  background-color: white;
+  position: absolute;
+  margin-top: 62px;
+  margin-left: 187px;
+}
+
+/* Task 2 */
+
+#task2{
+  margin-top: 300px;
+}
+
+/* first Box */
+
+#task2 .firstBox{
+  height: 208px;
+  width: 208px;
+  background-color: #DAA520;
+  position: absolute;
+}
+
+#task2 .firstBox .forthBorder{
+  height: 160px;
+  width: 160px;
+  position: absolute;
+  border-style: solid;
+  border-color: black;
+  margin: 20px;
+}
+
+#task2 .firstBox .thirdBorder{
+  height: 119px;
+  width: 119px;
+  position: absolute;
+  border-style: solid;
+  border-color: black;
+  margin: 41px;
+}
+
+#task2 .firstBox .secondBorder{
+  height: 78px;
+  width: 78px;
+  position: absolute;
+  border-style: solid;
+  border-color: black;
+  margin: 62px;
+}
+
+#task2 .firstBox .firstBorder{
+  height: 37px;
+  width: 37px;
+  position: absolute;
+  border-style: solid;
+  border-color: black;
+  margin: 83px;
+}
+
+/* second Box */
+
+#task2 .secondBox{
+  height: 208px;
+  width: 208px;
+  background-color: Black;
+  position: absolute;
+  margin-left: 208px;
+}
+
+#task2 .secondBox .forthBorder{
+  height: 160px;
+  width: 160px;
+  position: absolute;
+  border-style: solid;
+  border-color: #DAA520;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#task2 .secondBox .thirdBorder{
+  height: 119px;
+  width: 119px;
+  position: absolute;
+  border-style: solid;
+  border-color: #DAA520;
+  border-radius: 100%;
+  margin: 41px;
+}
+
+#task2 .secondBox .secondBorder{
+  height: 78px;
+  width: 78px;
+  position: absolute;
+  border-style: solid;
+  border-color: #DAA520;
+  border-radius: 100%;
+  margin: 62px;
+}
+
+#task2 .secondBox .firstBorder{
+  height: 37px;
+  width: 37px;
+  position: absolute;
+  border-style: solid;
+  border-color: #DAA520;
+  border-radius: 100%;
+  margin: 83px;
+}
+
+/* thirdBox */
+
+#task2 .thirdBox{
+  margin-left: 416px;
+}
